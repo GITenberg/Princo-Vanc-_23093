@@ -1,0 +1,45 @@
+_repo: Princo-Vanc-_23093
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Harris, Herbert
+    gutenberg_agent_id: '25672'
+    url: http://www.gutenberg.org/2009/agents/25672
+covers:
+- cover_type: archival
+  image_path: 23093-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Bates, Arlo
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '2784'
+    url: http://www.gutenberg.org/2009/agents/2784
+    wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
+  - agent_name: Putnam, Eleanor
+    alias: Bates, Harriet Leonora Vose
+    birthdate: 1856
+    deathdate: 1886
+    gutenberg_agent_id: '25666'
+    url: http://www.gutenberg.org/2009/agents/25666
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23093'
+  lccn: '14010762'
+language: eo
+physical_description_note: 4 p.l., 95 p. incl. front., plates. 18 cm.
+publication_note: West Newton, Mass., The American Esperantist co., inc., 1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Princes -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+title: Princo Vanc'
+url: http://www.gutenberg.org/ebooks/23093
